@@ -35,7 +35,7 @@ export default function Trump_Vance(){
       return(
         <>
         <div style={containerStyle}>
-      <h1 style={{textAlign: 'center' }}>Trump Data</h1>
+      <h1 style={{textAlign: 'center' }}>Trump Data:</h1>
       <div className="row">
         {trumpdata.map((element, index) => (
           <div key={index} className="card" style={cardStyle(element.color)}>
@@ -55,7 +55,7 @@ export default function Trump_Vance(){
       </div>
     </div>
     <div style={containerStyle}>
-      <h1 style={{textAlign: 'center' }}>Vance Data</h1>
+      <h1 style={{textAlign: 'center' }}>Vance Data:</h1>
       <div className="row">
         {vancedata.map((element, index) => (
           <div key={index} className="card" style={cardStyle(element.color)}>
