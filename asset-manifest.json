@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PrezScopes/static/css/main.161df669.css",
+    "main.js": "/PrezScopes/static/js/main.83133ebd.js",
+    "static/js/488.e75445ad.chunk.js": "/PrezScopes/static/js/488.e75445ad.chunk.js",
+    "static/media/logo.svg": "/PrezScopes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PrezScopes/index.html",
+    "main.161df669.css.map": "/PrezScopes/static/css/main.161df669.css.map",
+    "main.83133ebd.js.map": "/PrezScopes/static/js/main.83133ebd.js.map",
+    "488.e75445ad.chunk.js.map": "/PrezScopes/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161df669.css",
+    "static/js/main.83133ebd.js"
+  ]
+}
